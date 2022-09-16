@@ -1,0 +1,17 @@
+.my-custom-scrollbar {
+    position: relative;
+    height: 300px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+}
+.scroll{
+    height:300px;
+     overflow:auto;
+      background:#fff;
+  }
+  .buttonDiv {
+    justify-content: center;
+    align-items: center;
+  }
